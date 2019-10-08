@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>16.jpg</filename>
+	<path>/Users/mariolopez/Desktop/Work/Python Projects/RedDetection/labelImg/images/16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>870</width>
+		<height>1392</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red folder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>718</ymin>
+			<xmax>839</xmax>
+			<ymax>1290</ymax>
+		</bndbox>
+	</object>
+</annotation>
